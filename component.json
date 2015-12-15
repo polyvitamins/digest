@@ -1,0 +1,15 @@
+{
+	"name": "digest",
+	"version": "0.0.1",
+	"license": "MIT",
+	"author": {
+		"name": "Vladimir Kalmykov",
+		"email": "vladimirmorulus@gmail.com"
+	},
+	"main": [
+		"dist/digest.js"
+	],
+	"scripts": [
+		"src/digest.js"
+	]
+}

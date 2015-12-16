@@ -1,0 +1,24 @@
+{
+  "name": "compareobjects",
+  "repository": "http://github.com/polyvitamins/compareobjects",
+  "description": "Inherit class by class",
+  "version": "0.0.1",
+  "keywords": [
+    "compareobjects"
+  ],
+  "main": "dist/compareobjects.js",
+  "dependencies": {
+    "polyvitamins/mixin": "master"
+  },
+  "scripts": [
+    "src/compareobjects.js"
+  ],
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "amd"
+  ],
+  "resolved": "cc66280b8b10b2dc85156703dea6ac37ef584ed1"
+}

@@ -1,6 +1,6 @@
 define([
-	"polyvitamins~extend@master",
-	"polyvitamins~compareobjects@master"
+	"polyvitamins.extend",
+	"polyvitamins.compareobjects"
 ], function(extend, compareObjects) {
 	var Digest = function() {
 		this.$$watchers = [];

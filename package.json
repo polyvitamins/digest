@@ -6,8 +6,8 @@
   "keywords": ["digest"],
   "main": "dist/digest.js",
   "dependencies": {
-		"polyvitamins/extend": "master",
-		"polyvitamins/compareobjects": "master"
+		"polyvitamins.extend": "polyvitamins/extend",
+		"polyvitamins.compareobjects": "polyvitamins/compareobjects"
 	},
   "scripts": [
     "src/digest.js"

@@ -1,19 +1,22 @@
 {
 	"name": "digest",
-	"version": "0.0.1",
-	"license": "MIT",
-	"author": {
-		"name": "Vladimir Kalmykov",
-		"email": "vladimirmorulus@gmail.com"
-	},
-	"main": [
-		"dist/digest.js"
-	],
-	"scripts": [
-		"src/digest.js"
-	],
-	"dependencies": {
+	"repository": "http://github.com/polyvitamins/digest",
+  "description": "Digest class",
+  "version": "0.0.1",
+  "keywords": ["digest"],
+  "main": "dist/digest.js",
+  "dependencies": {
 		"polyvitamins/extend": "master",
 		"polyvitamins/compareobjects": "master"
-	}
+	},
+  "scripts": [
+    "src/digest.js"
+  ],
+  "license": "MIT",
+  "remotes": [
+    "github"
+  ],
+  "tags": [
+    "amd"
+  ]
 }

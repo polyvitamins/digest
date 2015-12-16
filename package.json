@@ -9,9 +9,6 @@
 		"polyvitamins.extend": "polyvitamins/extend",
 		"polyvitamins.compareobjects": "polyvitamins/compareobjects"
 	},
-  "scripts": [
-    "src/digest.js"
-  ],
   "license": "MIT",
   "remotes": [
     "github"

@@ -4,7 +4,7 @@
   "description": "Digest class",
   "version": "0.0.1",
   "keywords": ["digest"],
-  "main": "dist/digest.js",
+  "main": "src/digest.js",
   "dependencies": {
 		"polyvitamins.extend": "polyvitamins/extend",
 		"polyvitamins.compareobjects": "polyvitamins/compareobjects"
